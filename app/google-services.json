@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "771772191987",
+    "firebase_url": "https://note-51d60-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "note-51d60",
+    "storage_bucket": "note-51d60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771772191987:android:76ced4729205dd903b1386",
+        "android_client_info": {
+          "package_name": "com.example.notefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mHMdl17M6rxtTbwTnhcqBCOdmB5FHXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
